@@ -10,16 +10,4 @@
       "https://images-cdn.ubuy.co.in/635642372b20e736635911c0-lg-27-ultragear-fhd-1ms-165hz-gaming.jpg", 
     category: "Electronics",
   },
-  {
-    id: 14,
-    title: "KitchenAid Stand Mixer",
-    price: 399,
-    description:
-      "Bake like a pro with the KitchenAid Stand Mixer. It features a powerful motor, 10-speed settings, and a range of attachments for mixing, kneading, and whipping.",
-    rating: 4.9,
-    image:
-      "https://www.kitchenaid.in/content/kitchenaid/en_in/countertop-appliances/stand-mixers/_jcr_content/root/main/responsivegrid/responsivegrid_copy__832431237/container_copy_copy_/wrapperParsys/image_1644220087.coreimg.jpeg/1589379133737/bowl-lift-thumbnail.jpeg",
-    category: "Home & Kitchen",
-  },
-],
 }
